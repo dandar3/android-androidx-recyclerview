@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-recyclerview/tags/1.0.0,androidx-recyclerview,906f150be919001a128598304b4ad791;https://github.com/dandar3/android-androidx-recyclerview;https://github.com/dandar3/android-androidx-recyclerview;branches;tags;trunk;true;a30d0252-da57-aa34-e537-ce57b7db7bff;https://github.com/dandar3/android-androidx-recyclerview;;false;;;0"/>
+</provider>
+</psf>
