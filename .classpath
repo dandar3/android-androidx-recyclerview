@@ -5,7 +5,8 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-annotation"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-collection"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-core"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/androidx-legacy-support-core-ui"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-customview"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
